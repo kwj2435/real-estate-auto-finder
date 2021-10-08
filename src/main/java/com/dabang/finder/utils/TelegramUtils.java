@@ -13,7 +13,7 @@ import static org.apache.logging.log4j.message.MapMessage.MapFormat.JSON;
 
 @Component
 public class TelegramUtils {
-    private static final String TOKEN = "1979472172:AAF591hvntk4wElvK5DS_rFcaDRN30uqyEo";
+    private static final String TOKEN = "2052523280:AAFkccBsCbHF9O6nBjMbG9xiWPV5wlFNvLM";
     private static final String CHAT_ID = "1966561554";
 
     public String sendMessage(String text) throws IOException {
